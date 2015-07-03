@@ -92,7 +92,7 @@ public class Administracion implements Serializable {
 
     @Override
     public String toString() {
-        return "com.unitec.weba.Administracion[ idSesion=" + idSesion + " ]";
+        return "com.unitec.elementos.Administracion[ idSesion=" + idSesion + " ]";
     }
 
     void setIDUsuario(Usuario u1) {

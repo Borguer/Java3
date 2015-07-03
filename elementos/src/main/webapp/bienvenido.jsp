@@ -14,7 +14,7 @@
     <body>
         <h1>Bienvenido</h1>
         <h2>Guardar Usuario</h2>
-        <form action="guardar-usuario" method="post">
+        <form action="guardarusuario" method="post">
             <table>
                 <tr>
                     <td>nombre</td><td><input type="text" name="nombre"></td>
